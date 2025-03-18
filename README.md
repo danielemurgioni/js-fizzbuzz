@@ -12,3 +12,7 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 
 scomposizione in sotto-problemi:
 
+[FOR] Prima Variabile - Creiamo un ciclo compreso tra 1 e 100, e stampiano i risultati;
+[IF] Seconda Variabile - Se il risultato è un multiplo di 3 stampo la parola "Fizz";
+[ELSE-IF] Terza Variabile - Se invece il risultato è un multiplo di 5 stampo la parola "Buzz";
+[ELSE] Quarta Variabile - Quando il risultato è sia un multiplo di 3 che di 5 stampo "FizzBuzz";
